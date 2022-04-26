@@ -1,0 +1,820 @@
+  300  nvm ls-remote
+  301  nvm install  16.14.2 
+  302  nvm use 14.18.1
+  303  nvm use 14.18.1
+  304  nvm use 16.14.2
+  305  node -v
+  306  cd /Users/take/Gizumo/Gulp/gulp_lesson 
+  307  npm init -y
+  308  npm install --save-dev gulp@4.0.2
+  309  npm run gulp
+  310  npm install -D gulp-sass@5.0.0 sass@1.35.1
+  311  npm install -D gulp-sass@5.0.0 sass@1.35.1 
+  312  npm run gulp
+  313  npm run gulp watch
+  314  cd /Users/take/Gizumo/Gulp/saas_lesson 
+  315  npm  init -y
+  316  npm install --save-dev gulp@4.0.2
+  317  npm run gulp
+  318  npm run gulp
+  319  npm run gulp
+  320  npm run gulp
+  321  ;2C;2C
+  322  npm run gulp
+  323  npm run gulp
+  324  npm install -D gulp-sass@5.0.0 sass@1.35.1
+  325  npm run gulp
+  326  npm run gulp
+  327  npm run
+  328  npm ERR!
+  329  npm help
+  330  npm  test
+  331  npm -l
+  332  npm test
+  333  nmp gulp
+  334  npm gulp
+  335   /Users/take/.npm/_logs/2022-04-05T10_30_11_042Z-debug-0.log
+  336  nmp gulp
+  337  npm gulp
+  338  nmp test
+  339  npm test
+  340  npm gulp
+  341  npm run gulp
+  342  npm run gulp
+  343  npm install -D gulp-sass@5.0.0 sass@1.35.1
+  344  npm run gulp
+  345  npm run
+  346  npm run  /Users/take/.npm/_logs/2022-04-05T13_04_58_537Z-debug-0.log
+  347  npm run gulp
+  348  npm run gulp
+  349  npm run sass
+  350  npm run gulp
+  351  cd /Users/take/Gizumo/Gulp/sass_lesson 
+  352  npm init -y
+  353  npm install --save-dev gulp@4.0.2
+  354  npm install -D gulp-sass@5.0.0 sass@1.35.1
+  355  npm run gulp
+  356  npm run gulp
+  357  cd /Users/take/Gizumo/Gulp/sass_lesson 
+  358  npm install -D gulp-sass@5.0.0 sass@1.35.1 
+  359  npm run gulp
+  360  npm run gulp
+  361  npm run gulp
+  362  npm run gulp
+  363  npm run gulp
+  364  npm run gulp
+  365  npm run gulp
+  366  npm run gulp
+  367  npm run gulp
+  368  npm run gulp
+  369  NPM RUN GULP
+  370  NPM RUN GULP
+  371  npm run gulp
+  372  npm run gulp
+  373  npm run gulp
+  374  npm run gulp
+  375   npm run gulp
+  376  cd /Users/take/Gizumo/Gulp/sass_lesson 
+  377  npm run gulp
+  378  npm run gulp
+  379  npm run gulp
+  380  npm run gulp
+  381  npm run gulp
+  382  npm run gulp
+  383  npm run gulp
+  384  npm run gulp
+  385  npm run gulp
+  386  npm run gulp
+  387  npm run gulp
+  388  php -S localhost:9999
+  389  cd '/Users/take/Gizumo/JS/jquery_curriculum_new'
+  390  python -m SimpleHTTPServer 8000
+  391  cd /Users/take/Gizumo/Gulp/sass_lesson 
+  392  npm run gulp
+  393  npm run gulp
+  394  npm run gulp
+  395  npm run gulp
+  396  npm run gulp
+  397  npm run gulp
+  398  npm run gulp
+  399  npm install -D gulp-sass@5.0.0 sass@1.35.1 
+  400  npm run gulp
+  401  npm run gulp
+  402  npm run gulp
+  403  npm run gulp
+  404  npm run gulp
+  405  npm run gulp
+  406  npm run gulp
+  407  npm run gulp
+  408  npm run gulp
+  409  npm run gulp
+  410  npm run gulp
+  411  npm run gulp
+  412  npm run gulp watch
+  413  cd /Users/take/Gizumo/Gulp/Scss_practice 
+  414  npm run gulp
+  415  npm run gulp
+  416  npm run gulp
+  417  npm run gulp
+  418  cd /Users/take/Laravel 
+  419  composer create-project --prefer-dist laravel/laravel laravel_app "9.*"
+  420  brew install composer
+  421  composer -v
+  422  cd /Users/take/Laravel 
+  423  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  424  exit
+  425  cd composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  426  cd /Users/take/Laravel 
+  427  composer create-project --prefer-dist laravel/laravel laravel_app "9.*"\n
+  428  cd /Users/take/Gizumo/Gulp/sass_lesson 
+  429  npm run gulp watch
+  430  npm run gulp watch
+  431  select * from `todos`
+  432  SELECT * FROM todos;
+  433  mysql.server start
+  434  mysql -u root -p
+  435  exit
+  436  php -v
+  437  composer -v
+  438  npm -v
+  439  node -v
+  440  cd /Applications/MAMP/htdocs/Udemy_Laravel\ by\ Aoki\  
+  441  composer create-project laravel/laravel umarche "9.*"--prefer-dist
+  442  php -v
+  443  $ brew upgrade php
+  444   brew upgrade php
+  445   . ~/.zshrc
+  446  php -v
+  447  $ . ~/.zshrc
+  448  open ~/.zshrc
+  449  source ~/.zshrc
+  450  open ~/.zshrc
+  451  php -v
+  452  composer create-project laravel/laravel umarche
+  453  cd umarche
+  454  php artison serve
+  455  cd /Applications/MAMP/htdocs/Udemy_Laravel\ by\ Aoki\  
+  456  composer create-project laravel/laravel umarche
+  457  cd umarche
+  458  php artison serve
+  459  php artisan serve
+  460  cd '/Users/take/Gizumo/PHP_APP'
+  461  php -S localhost:9999
+  462  cd /Users/take/Gizumo/PHP_APP 
+  463  mysql.server start
+  464  show database
+  465  mysql -u root -p
+  466  cd /Users/take/Gizumo/Laravel 
+  467  composer create-project laravel/laravel umarche
+  468  cd laravel_app
+  469  /Users/take/Gizumo/Laravel/laravel_app 
+  470  /Users/take/Gizumo/Laravel/laravel_app 
+  471  php artisan serve
+  472  cd laravel 
+  473  php artisan serve
+  474  laravel new laravelapp
+  475  Laravel new laravelapp
+  476  Laravel new laravelapp;
+  477  cd Desktop 
+  478  cd /Users/take/Desktop 
+  479  cd /Users/take/Laravel 
+  480  Laravel new laravelapp;
+  481  Laravel new laravelapp
+  482  open ~/.zshrc
+  483  open ~/.zshrc
+  484  php artisan --version
+  485  laravel 
+  486  php artisan --version
+  487  php artisan --v
+  488  php artisan -v
+  489  composer global require Laravel/installer
+  490  echo "export PATH=$PATH:/Users/take/.composer/vendor/bin:$PATH" >>
+  491  echo "export PATH=$PATH:/Users/take/.composer/vendor/bin:$PATH" >> ~./zshrc_profile source ~/.zshrc_profile
+  492  open ~/.zshrc
+  493  vi ~/.zshrc
+  494  open ~/.zshrc
+  495  vi ~/.zshrc
+  496  cd /Users/take/Laravel 
+  497  composer create-project laravel/laravel umarche
+  498  open ~/.zshrc
+  499  source ~/.zshrc
+  500  php artisan -v
+  501  php artisan -v
+  502  laravel -V
+  503  cd 
+  504  mysql.server start 
+  505  mysql.server start
+  506  mysql root -u -p
+  507  mysql root -u -p
+  508  mysql -u root  -p
+  509  laravel -v
+  510  php artisan -v
+  511  php artisan -v
+  512  laravel -V
+  513  open ~/.zshrc
+  514  source ~/.zshrc
+  515  laravel -v
+  516  php artisan -v
+  517  open zshrc
+  518  open ~/.zshr
+  519  open ~/.zshrc
+  520  cd /Users/take/Gizumo/Laravel/laravel_app 
+  521  php artisan serve
+  522  php artisan serve
+  523  cd /Users/take/Gizumo/Laravel 
+  524  php artisan serve
+  525  php artisan serve
+  526  php artisan --version
+  527  composer -v
+  528  open ~/.zshrc
+  529  source ~/.zshrc
+  530  open ~/.zshrc
+  531  $ laravel -v
+  532   laravel -v
+  533  open ~/.zshrc
+  534  :wq
+  535  :wq
+  536  :wq;
+  537  source ~/.zshrc
+  538  open ~/.zshrc
+  539   laravel -v
+  540  php artisan --version
+  541  php artisan --version
+  542  php artisan serve
+  543  php artisan serve
+  544  composer create-project --prefer-dist laravel/laravel laravel_app "9.*"
+  545  cd laravel
+  546  cd laravel_app
+  547  php artisan serve
+  548  cd laravel_app
+  549  cd laravel_app
+  550  git init
+  551  git add .
+  552  git commit -m 'initial commit'
+  553  php artisan serve
+  554  open ~/.zshrc
+  555  php artisan -V
+  556  mysql.server start
+  557  mysql -u root -p
+  558  cd laravel_app
+  559  cd laravel_app;
+  560  cd laravel_app
+  561  php artisan migrate
+  562  open ~/.zshrc
+  563  composer -v 
+  564  pwd
+  565  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  566  ls -a
+  567  cd laravel_app
+  568  ls -a
+  569  exit
+  570  /Users/take/Gizumo/Laravel_6 
+  571  cd /Users/take/Gizumo/Laravel_6 
+  572  composer -v
+  573  composer global require laravel/installer
+  574  open ~./zshrc
+  575  open ~/.zshrc
+  576  souce ~/.zshrc
+  577  source ~/.zshrc
+  578  source ~/.zshrc
+  579  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  580  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  581  source ~/.zshrc
+  582  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  583  php -v
+  584  brew search php  
+  585  source ~/.zshrc
+  586  exit
+  587  cd /Users/take/Gizumo/Laravel_6 
+  588  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  589  cd laravel_app
+  590  ls
+  591  php artisan serve\n
+  592  cd laravel_app
+  593  cd laravel_app
+  594  cd laravel_app
+  595  cd laravel_app\ngit init\ngit add .\ngit commit -m 'initial commit'
+  596  cd laravel_app
+  597  mysql.server
+  598  mysql.server start
+  599  mysql -u root -p
+  600  cd laravel_app
+  601  laravel_app;
+  602  cd laravel
+  603  ls
+  604  cd laravel
+  605  cd laravel_6
+  606  cd Laravel_6
+  607  cd Laravel_6;
+  608  php -S localhost:9999
+  609  cd laravel/
+  610  cd '/Users/take/Gizumo/laravel'
+  611  cd laravel_app/
+  612  cd '/Users/take/Gizumo/laravel'/laravel_app/
+  613  php artisan migrate
+  614  php aritsan migrate:rollback
+  615  php aritsan migrate:rollback;
+  616  php artisan migrate:rollback;
+  617  php artisan make:migration create_todos_table
+  618  php artisan migrate
+  619  php artisan migrate
+  620  php artisan make:seeder TodosTableSeeder
+  621  php artisan make:status;
+  622  php artisan make:seeder TodosTableSeeder
+  623  composer dumo-autoload
+  624  php artisan db:seed
+  625  composer dumo-autoload
+  626  php artisan db:seed
+  627  php artisan db:seed
+  628  php artisan make:migration create_todos_table
+  629  php artisan migrate
+  630  php artisan make:seeder TodosTableSeeder
+  631  composer dump-autoload\nphp artisan db:seed
+  632  cd '/Users/take/Gizumo/laravel/laravel_app'
+  633  php artisan serve
+  634  php artisan make:controller TodoController
+  635  php artisan serve
+  636  php artisan route:list
+  637  php artisan serve
+  638  php artisan make:model Todo
+  639  php artisan list
+  640  php artisan serve
+  641  php artisan serve
+  642  cd /Users/take/Gizumo/laravel/laravel_app 
+  643  php artisan root:list
+  644  php artisan roote:list
+  645  php artisan route:list
+  646  brew list
+  647  brew install docker --cask
+  648  docer --version
+  649  docker --version
+  650  docker pull centos:centos7
+  651  docker images
+  652  docker run -it -d --name centos7 centos:centos7
+  653  docker pull centos:centos7
+  654  systemctl start docker
+  655   systemctl start docker
+  656  systemctl start docker
+  657  docker images
+  658  docker image;
+  659  docker images;
+  660  docker images
+  661  docker image;
+  662  sudo service docker stop
+  663  sudo service docker start\n\n
+  664  sudo service docker start\n\n
+  665  sudo service docker start\n\n
+  666  sudo service docker start
+  667  hogehoge
+  668  docker pull centos:centos7
+  669  systemctl start docker
+  670  docker --version
+  671  docker run hello-world
+  672  docker pull centos:centos7
+  673  docker images
+  674  docker run -it -d --name centos7 centos:centos7
+  675  docker ps
+  676  docker exec -it centos7 bash
+  677  docker stop centos7
+  678  docker stop centos7;
+  679  ls
+  680  ls /usr
+  681  cd /root
+  682  cd /root
+  683  pwd
+  684  cd /root
+  685  ls /usr
+  686  pwd
+  687  cd /root
+  688  ls /
+  689  ls/usr
+  690  ls /usr
+  691  cd /root
+  692  pwd
+  693  cd /Users/take/usr
+  694  ls /
+  695  pwd
+  696  cd ~/usr
+  697  ls /usr
+  698  pwd
+  699  cd /usr
+  700  pwd
+  701  cd /home
+  702  mkdir test1
+  703  ls
+  704  pwd
+  705  mkdir test1
+  706  ls
+  707  ls -a
+  708  cd /test1
+  709  ls
+  710  ls -a
+  711  ls /
+  712  cd /home
+  713  mkdir test1
+  714  cd /Users/take/DietAPP 
+  715  composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  716  cd /Users/take/DietAPP/laravel_app 
+  717  php artisan serve
+  718  php artisan serve
+  719  mysql.server start
+  720  mysql -u root -p
+  721  cd /Users/take/Gizumo/laravel 
+  722   composer create-project --prefer-dist laravel/laravel laravel_app "6.*"
+  723  cd laravel_app
+  724  php artisan serve
+  725  cd laravel_app
+  726  cd Laravel_6;
+  727  cd Laravel_6
+  728  cd laravel_app
+  729  pwd
+  730  git init\ngit add .\ngit commit -m 'initial commit'
+  731  mysql.server
+  732  mysql.server start
+  733  mysql -u root -p
+  734  cd /root
+  735  cd/root
+  736  ls
+  737  pwd
+  738  cd /root
+  739  cd /home
+  740  mkdir test1
+  741  mkdir /test1
+  742  ls
+  743  ls -a
+  744  mkdir test1
+  745  mkdir ~/test1
+  746  ls
+  747  pwd
+  748  mkdir test1
+  749  mkdir test1;
+  750  mkdir test
+  751  pwd
+  752  cd test1
+  753  cd /test1
+  754  cd /home
+  755  mkdir test1
+  756  ls
+  757  mkdir -p test2/test3
+  758  $ mkdir -p test2/test33
+  759  mkdir -p test2/test3
+  760  mkdir test1
+  761  ls test2
+  762  ls
+  763  ls test2
+  764  php artisan serve
+  765  cd '/Users/take/DietAPP'
+  766  cd '/Users/take/DietAPP/laravel_app'
+  767  php artisan serve
+  768  git add .\ngit commit -m 'initial commit'\n
+  769   php artisan migrate
+  770   php artisan migrate
+  771  php artisan make:migration create_todos_table
+  772   php artisan migrate
+  773  php artisan migrate
+  774  php artisan migrate;
+  775  php artisan migrate;
+  776  php artisan migrate
+  777  php artisan migrate
+  778  php artisan migrate
+  779  php artisan migrate
+  780  php artisan make:migration create_diet_table
+  781  php artisan migrate
+  782  php artisan migrate
+  783  cd '/Users/take/DietAPP'
+  784  php artisan serve
+  785  php artisan migrate
+  786  cd laravel_app
+  787  php artisan serve
+  788  php artisan migrate
+  789  php artisan migrate
+  790  php artisan migrate
+  791  cd '/Users/take/DietAPP/laravel_app'
+  792  php artisan migrate
+  793  php artisan serve
+  794  php artisan make:request Todorequest
+  795  php artisan serve
+  796  php artisan make:migration add_softdelete_to_todos_table --table=todos
+  797  php artisan migrate
+  798  php artisan serve
+  799  php artisan serve
+  800  cd /Users/take/Udemy_Laravel\ by\ Aoki\  
+  801  composer create-project --prefer-dist laravel/laravel laravel_app "9.*"
+  802  open ./zshrc
+  803  open ~./zshrc
+  804  open ~/.zshrc
+  805  source ~/.zshrc
+  806  composer create-project --prefer-dist laravel/laravel laravel_app "9.*"
+  807  /Applications/MAMP/htdocs/Udemy_Laravel\ by\ Aoki\ /laravel_app 
+  808  cd /Applications/MAMP/htdocs/Udemy_Laravel\ by\ Aoki\ /laravel_app 
+  809  php artisan migrate
+  810  cd ~/root
+  811  cd /root
+  812  open ~/.zshrc
+  813  souce ~/.zshrx
+  814  souce ~/.zshrc
+  815   ~/.zshrc
+  816  . ~/.zshrc
+  817  cd '/Users/take/DietAPP'
+  818  php artIsan serve
+  819  cd laravel_app
+  820  php artIsan serve
+  821  cd /Users/take/server_lesson/docker 
+  822  git clone https://github.com/gizumo-inc/docker_training.git
+  823  docker ps
+  824  docker images
+  825  docker run -it -d --name centos7 centos:centos7
+  826  docker ps
+  827  docker exec -it centos7 zshrc
+  828  docker images
+  829  docker run -it -d --name centos7 centos:centos7
+  830  cd '/Users/take/DietAPP/laravel_app'
+  831  php artisan serve
+  832  php artisan migrate
+  833  php artisan migrate
+  834  cd /Users/take/DietAPP 
+  835  mysql server start 
+  836  mysql.server start
+  837  mysql -u root -p
+  838  cd '/Users/take/Gizumo/laravel'
+  839  php artisan serve
+  840  php artisan server
+  841  cd laravel_app
+  842  php artisan server
+  843  y
+  844  yes
+  845  cd '/Users/take/Gizumo/laravel/laravel_app'
+  846  php artisan serve
+  847  php artisan serve
+  848  cd /Users/take/Gizumo/laravel/laravel_app 
+  849  mysql.server start
+  850  mysql root -u -p
+  851  mysql root -u -p;
+  852  mysql  -u root -p
+  853  cd /home
+  854  mkdir test1
+  855  ls
+  856  cd /home
+  857  mkdir test1
+  858  mkdir test1
+  859  cd ./home
+  860  cd ~/home
+  861  cd /home
+  862  mkdir test1
+  863  mkdir t1
+  864  cd /root
+  865  ls /
+  866  cd /root
+  867  cd /usr
+  868  cd /root
+  869  ls
+  870  ls -a
+  871  pwd
+  872  cd user
+  873  cd /user
+  874  cd User/desktop
+  875  cd ~/
+  876  ls
+  877  ls -a
+  878  ls /
+  879  sudo ls /
+  880  cd /root
+  881  cd ~/root
+  882  cd /root
+  883  pwd
+  884  mkdir server_lesson && cd server_lesson
+  885  yum update -y && yum -y install git
+  886  git --v
+  887  git version
+  888  git init
+  889  touch first.txt
+  890  ls
+  891  ls -a
+  892  mkdir linux_practice2/documents  
+  893  mkdir -p linux_practice2/documents  
+  894  ls-a
+  895  ls -a
+  896  ls -linux_practice2
+  897  ls -linux_practice2
+  898  ls linux_practice2
+  899  ls -a
+  900  cd ../
+  901  cd server_lesson
+  902  mkdir linux_practice1
+  903  ls -a
+  904  pwd
+  905  server_lesson/linux_practice1 
+  906  cd server_lesson
+  907  pwd
+  908  cd linux_practice1
+  909  mkdir  public
+  910  touch index.php 
+  911  cd public
+  912  cp index.php index_bk.php
+  913  cd ../
+  914  cp -r public tmp
+  915  ls
+  916  ls tmp
+  917  rm tmp/index_bk.php
+  918  ls
+  919  ls tmp
+  920  cd ../
+  921  touch README.md
+  922  ls server_lesson
+  923  touch gizumo{01..50}.md
+  924  rm *.md
+  925  cd documents
+  926  touch gizumo{01..50}.md
+  927  rm *.md
+  928  cd /Users/take/server_lesson/linux_practice2/documents 
+  929  touch gizumo{01..50}.md
+  930  mkdir trush
+  931  cd-
+  932  cd./
+  933  cd../
+  934  cd ../
+  935  mkdir trush
+  936  mv documents/gizumo(20..40).md 
+  937  cd trush
+  938  mv documents/gizumo(20..40).md gizumo(20..40).md 
+  939  mv documents/gizumo(20..40).md gizumo(20..40).md 
+  940  mv documents/gizumo(20..40).md trush/
+  941  mv documents/gizumo(20..40).md trush/ gizumo(20..40).md 
+  942  mv ../gizumo(20..40).md gizumo(20..40).md
+  943  mv linux_practice2/documents/gizumo(20..40).md gizumo(20..40).md 
+  944  cd ../
+  945  mv documents/gizumo(20..40).md trush/gizumo(20..40).md 
+  946  mv documents/gizumo(20..40).md linux_practice2/trush/gizumo(20..40).md 
+  947  cd ../
+  948  cd ../linux_practice2/trush
+  949  cd /Users/take/server_lesson/linux_practice2/trush 
+  950  mv documents/gizumo(20..40).md  gizumo(20..40).md 
+  951  <mv documents/gizumo(20..40).md>  <gizumo(20..40).md> 
+  952  mv <documents/gizumo(20..40).md>  <gizumo(20..40).md> 
+  953  mv documents/gizumo(2?).md  gizumo(20..29).md 
+  954  mv documents/gizumo(2?).md  gizumo(20..29).md 
+  955  mv documents/gizumo(2\?).md  gizumo(20..29).md 
+  956  mv gizumo(20..40).md trush/
+  957  mv  documents/gizumo(20..40).md trush/
+  958  mv server_lesson/documents/gizumo(20..40).md trush/
+  959  mv server_lesson/linux_practice2/documents/gizumo(20..40).md trush/
+  960  cd../
+  961  cd ../
+  962  mv documents/gizumo(20..40).md trush/
+  963  touch .gitignore
+  964  touch \.gitignore
+  965  vi README.md
+  966  touch .gitignore
+  967  killall Finder
+  968  docker-compose --version
+  969  mv documents/gizumo{20..40}.md trush/
+  970  cd /Users/take/server_lesson/linux_practice2/trush 
+  971  cd/.
+  972  cd ../
+  973  mv trush trash
+  974  cd /Users/take/server_lesson/linux_practice2/trash 
+  975  mv documents/gizumo{20..40}.md trash/
+  976  mv documents/gizumo{20..40}.md trash/
+  977  cd ../
+  978  touch .gitignore
+  979  touch gitignore
+  980  ls -a
+  981  git ignore
+  982  git add
+  983  git add .
+  984  git rm --cached <gziumo{20..29}>
+  985  cd .gitignore
+  986  pwd
+  987  git status
+  988  git init
+  989  git status
+  990  git add gizumo{20..29}.md
+  991  git status
+  992  git status
+  993  git status
+  994  git status
+  995  git status
+  996  cd /Users/take/server_lesson 
+  997  git status
+  998  git status --ignored
+  999  vi.gitignore
+ 1000  vi .gitignore
+ 1001  cd /Users/take/server_lesson 
+ 1002  cd /Users/take/server_lesson/linux_practice2 
+ 1003  cd documents
+ 1004  rm gizumo{20..40}.md
+ 1005  rm /gizumo{20..40}.md
+ 1006  git status
+ 1007  git rm <gizumo{20..40}.md>
+ 1008  git rm <gizumo20.md>
+ 1009  git status
+ 1010   git rm --cached gizumo2*.md
+ 1011   git rm --cached gizumo2*
+ 1012  cd ../
+ 1013  ls -l
+ 1014  cd trash
+ 1015   git rm --cached gizumo2*
+ 1016  ls -l
+ 1017   git rm --cached gizumo2*　--ignore-unmatch
+ 1018   git rm --cached --ignore-unmatch gizumo2*
+ 1019  git status
+ 1020  cd ..
+ 1021  git status
+ 1022  git status -s
+ 1023  git diff
+ 1024  git branch
+ 1025  cd ..
+ 1026  ls
+ 1027  git status
+ 1028  git branch
+ 1029  git status
+ 1030  git rm --cached linux_practice2/trash
+ 1031  git rm --cached -r linux_practice2/trash
+ 1032  git status
+ 1033  cd linux_practice2
+ 1034  ls
+ 1035  cd trash
+ 1036  ls
+ 1037  git status
+ 1038  cd ../../
+ 1039  ls
+ 1040  git status
+ 1041  history 300
+ 1042  ls -ls
+ 1043  ls -l
+ 1044  cd linux_practice2
+ 1045  touch exec_command.log
+ 1046  ls -l
+ 1047  git status
+ 1048  git status
+ 1049  git status
+ 1050  git add .
+ 1051  git status
+ 1052  cd ../
+ 1053  ls]
+ 1054  ls -la
+ 1055  git status
+ 1056  pwd
+ 1057  git rm --cached .
+ 1058  git rm --cached ./
+ 1059  git rm --cached ./*
+ 1060  git log
+ 1061  git branch
+ 1062  git status
+ 1063  git add docker
+ 1064  git status
+ 1065  git add .
+ 1066  git add ./
+ 1067  git add README.md
+ 1068  git add first.txt
+ 1069  git add linux_practice1
+ 1070  git add linux_practice2
+ 1071  cd linux_practice2
+ 1072  ls -la
+ 1073  cd ..
+ 1074  ls -la
+ 1075  cd linux_practice2
+ 1076  ls
+ 1077  ls -la
+ 1078  rm -rf .git/
+ 1079  ls
+ 1080  ll
+ 1081  ls -la
+ 1082  cd ..
+ 1083  ls
+ 1084  cd docker
+ 1085  ls
+ 1086  ls -la
+ 1087  cd docker_training
+ 1088  ls -la
+ 1089  rm -rf .git
+ 1090  cd ../../
+ 1091  ls
+ 1092  git status
+ 1093  git status
+ 1094  git status
+ 1095  gti status --help
+ 1096  git status --help
+ 1097  git status --help
+ 1098  git status --long
+ 1099  git status --help
+ 1100  git status -u
+ 1101  ls -l
+ 1102  cd linux_practice2
+ 1103  ls -l
+ 1104  history 300
+ 1105  ls -l
+ 1106  cd documents
+ 1107  ls -l
+ 1108  cd ../
+ 1109  ls -l
+ 1110  cd trash
+ 1111  ls -l
+ 1112  cd ../
+ 1113  ls -l
+ 1114  cd exec_command.log
+ 1115  echo history 300 > exec_command.log
+ 1116  echo history >> exec_command.log
+ 1117  echo history 300 >> exec_command.log
+ 1118  echo 'echo history 300' >> exec_command.log
+ 1119   history300 > exec_command.log
